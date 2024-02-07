@@ -8,7 +8,7 @@
 **University:** The University of Texas Arlington   
 **Level:** undergraduate - Senior (4th year)  
 **Position Title:** Student  
-**Course Webpage:** [IDS2024](https://www.cdslab.org/IDS2024S/)    
+**Course Webpage:** [IDS2024S](www.cdslab.org/IDS2024S)    
 **Photo:**  
 ![A photo of John Huynh](https://hips.hearstapps.com/hmg-prod/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=1xw:0.74975xh;center,top&resize=980:*)  
 
@@ -29,3 +29,4 @@ This repository contains my homework, quizzes, and virtually every effort that I
   Student of Data Science  
   University of Texas at Arlington  
   
+  This is a message from laptop command line.
