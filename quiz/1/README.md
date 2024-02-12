@@ -18,5 +18,20 @@
 18.  To make a text italic, you can do * or _ in front and behind the text you want italicized.
 19.  Git init will initalize an empty git project in local system.
 20.  . and .. in directory path names mean that it will put the folder in the previous folder, basically jumping folders.
-21.  
+21.  mkdir testdir
 22.  
+Shunk@Luffy MINGW64 ~
+$ cd testdir
+
+Shunk@Luffy MINGW64 ~/testdir (master)
+$ ls -a
+./  ../  .git/  .swl  .swm  .swn  .swo  .swp  README.md
+
+Shunk@Luffy MINGW64 ~/testdir (master)
+$ README.md
+bash: README.md: command not found
+
+Shunk@Luffy MINGW64 ~/testdir (master)
+$
+
+23.  
