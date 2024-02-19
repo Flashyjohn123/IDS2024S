@@ -5,6 +5,6 @@
 b. git status: Check the status of the project.  
 c. git add --all: Add files to the staging area.  
 d. git commit -m"latest build": Commit the staged files to the local repository.  
-e. git push --all:  Push the changes in the local repository to the remote repository.
+e. git push --all:  Push the changes in the local repository to the remote repository.  
 
 
