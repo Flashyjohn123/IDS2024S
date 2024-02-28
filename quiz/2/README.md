@@ -35,6 +35,6 @@
 28. A logarithm displays exponential growth.
 29. (33/2) * (3+99) = 1683  
 30. HDD, 5 years
-31. A clock
+31. A clock or a typewriter. 
 32. 10^5050, I did it all by hand and also did (100/2) * (1+100) and subsituted that for the power.
     
