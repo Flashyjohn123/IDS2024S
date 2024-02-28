@@ -20,7 +20,7 @@
 15. ENIAC is the first digital computer.
 16. A computer programming langauge for bioinformatics would be Python
 17. Fortran would be with NC, Atmospheric, Plasma, and Aerospace  
-18. The 5 major components of a modern digital computer are 
+18. The 5 major components of a modern digital computer are Motherboard, Central Processing Unit (CPU), Graphical Processing Unit (GPU), Random Access Memory (RAM), and a storage device.  
 19. ENIAC is a fixed program computer
 20. Fortran, Cobol, B, C++, Java, Python
 22. 1. The closest human readble programming to machine code is Assembly.
