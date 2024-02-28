@@ -18,14 +18,14 @@
 12. C with classes is a programming language of C++ and C is an ancestor of C with classes.
 13. MATLAB's programming language ancestor is Fortran and Python's programming language ancestor is ABC.
 14. Registers are the fastest part of the memory in the memory hiearchy of modern computers.
-15. The 
-16. The register is faster than the RAM by 100 ns faster.
-17. The RAM is faster than the SSD hard drives by
-18. The RAM is faster than the HDD hard drive by
+15. The smallest memory unit in the memory hierarchy of modern computers is the cache.  
+16. The register is faster than the RAM by 100 ns faster.  
+17. The RAM is faster than the SSD hard drives by one to two orders of magnitude because RAM is 10-100 GB and SSD is 50 MB - 200 MB. 
+18. The RAM is faster than the HDD hard drive by 100,000.  
 19. Transistors act like a switch to allow the flow of current.
 20. We cannot add more transistors to computers to make them faster is because that means transistors had to be smaller and cant function properly, also the amount of heat they produce at fast speeds.
 21. The 3 stages of the CPU cycle are 1) the instruction fetch stage, 2) decode stage, 3) execution stage. The repetition of the 3 tasks is an instruction cycle/ cpu cycle.
-22. A powerful computer with more
+22. A powerful computer with more cpu cycles can be slower than a compuer with less cpu cycles because the cpu provides the instructions and processing power it depends on the clock speed.  
 23. The bottleneck of speed in mondern computers is the memory access due to the technological progress in development of smaller transistors.
 24. Dennard scaling is reducing energy consumption by having transistors smaller, that the more transistors we cab fit on the IC, the faster the CPU will be. MOSFET scaling is another name for Dennard Scaling. Moore's law is that the number of transisotrs in the IC will double every 2 years.
 25. 1. on the 64th square, there will need to be put 65 grains of rice.    
