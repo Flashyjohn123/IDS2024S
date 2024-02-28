@@ -1,4 +1,4 @@
-1. This contains the pdfs  
+1. This contains the pdf
 1 a. Fortran, lisp, Algol 58, Basic, C, sh, C++, Fortran 90, Java, Python, Java, JavaScript, C#  
 1 b. 1954- Fortran, 1958- Lisp, 1964- Basic, 1971- C & Sh, 1983- C++, 1991- Fortran, Java, Python, 1995- Javascript, 2000- C#
 
