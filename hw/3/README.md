@@ -4,17 +4,14 @@
 4. An example can be the 2 statements in number 3 shows logical implication, like since its rainy, there will be clouds. 
 5. 5. If the window of a jewelry store is broken and the alarm is ringing and a masked man with a bag full of jewelry is crawling out spotted by the cop is true, then the masked man is dishonest.  
 6. This pdf shpws venn diagrams of logical implications.  
-7. .
-8.  .
-9.  .
-10.  .
-11.  .
-12.  .
-13. The three fundamental desiderata of Probability Theory are 1. Degrees of plausibility are represented by real numbers. 2. Qualitative correspondence with common sense. 3. Consistency  
-14. a) The smallest unit of info in a computer is a bit.  
+7. This pdf shows the venn diagrams of logical product of denial
+8. The pdf shows the table of logical functions with 1 input
+9. The pdf shows the table of logical functions with 2 inputs  
+10.  The pdf shows the table of logical functions in terms of logic functions
+11.  The pdf shows the table of fundamental logicical operators
+12. a) The smallest unit of info in a computer is a bit.  
     b) A bit is the smallest unit of info in a computer, therefore the smallest unit of information is stored and processed by a bit.  
-    c 1)  
-    c 2)  
-    c 3)  
-    c 4)  
+    c 1) 1 box, 2 estates, 1 bit (look in pdf)  
+    c 2)  2 box, 4 estates, 2 bits (look in pdf)   
+    c 3)  3 box, 8 estates, 3 bits (look in pdf)  
     
