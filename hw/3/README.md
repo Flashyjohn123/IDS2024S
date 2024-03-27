@@ -13,8 +13,8 @@
 13. The three fundamental desiderata of Probability Theory are 1. Degrees of plausibility are represented by real numbers. 2. Qualitative correspondence with common sense. 3. Consistency  
 14. a) The smallest unit of info in a computer is a bit.  
     b)  
-    c 1) 
-    c 2)
-    c 3)
-    c 4)
+    c 1)  
+    c 2)  
+    c 3)  
+    c 4)  
     
